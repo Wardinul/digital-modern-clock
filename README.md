@@ -15,3 +15,7 @@ This is one of my personal projects in which I refreshed my mind on how to progr
 ## Screenshot
 
 ![](/Clock%20Screenshot.png)
+
+## Gif
+
+![](https://github.com/Wardinul/digital-modern-clock/blob/main/Clock.gif)
